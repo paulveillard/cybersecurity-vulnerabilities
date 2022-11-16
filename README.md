@@ -9,14 +9,14 @@
   - [Impact of Software Security Vulnerabilities](#)
 
 
-## Introduction
+### Introduction
 
-## What is a Vulnerability?
+### What is a Vulnerability?
 
-## Examples of Vulnerabilities
+### Examples of Vulnerabilities
 
-## List of Vulnerabilities
+### List of Vulnerabilities
 
-## How to Prevent Software Vulnerabilities
+### How to Prevent Software Vulnerabilities
 
-## Impact of Software Security Vulnerabilities
+### Impact of Software Security Vulnerabilities
