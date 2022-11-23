@@ -86,6 +86,15 @@ An ongoing & curated collection of awesome software best practices and technique
 ##### Vulnerability template
 ##### XML External Entity (XXE) Processing
 
+### How to Identify Software Vulnerabilities
+The common methods of identifying vulnerabilities in a software project are:
+
+• Source Code Scanning using automated tools that run against a source code repository or module, finding string patterns deemed to potentially cause security vulnerabilities.
+• Automated Penetration Testing (black/grey box) through penetrating testing tools automatic scans, where the tool is installed on the network with the web site being tested, and runs a set of pre-defined tests against the web site URLs.
+• Manual Penetration Testing, again using tools, but with the expertise of a penetration tester performing more complicated tests.
+• Secure Code Review with a security subject matter expert.
+
+
 ### How to Prevent Software Vulnerabilities
 
 ### Impact of Software Security Vulnerabilities
