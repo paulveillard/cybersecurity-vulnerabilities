@@ -94,6 +94,7 @@ The common methods of identifying vulnerabilities in a software project are:
 - Manual Penetration Testing, again using tools, but with the expertise of a penetration tester performing more complicated tests.
 - Secure Code Review with a security subject matter expert.
 
+![vulnerabilities](https://github.com/paulveillard/cybersecurity-vulnerabilities/blob/main/Img/Survey_Vulnerabilities.png)
 
 ### How to Prevent Software Vulnerabilities
 
