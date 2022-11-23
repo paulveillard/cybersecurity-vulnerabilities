@@ -79,11 +79,11 @@ Unsafe JNI
 Unsafe Mobile Code
 Unsafe function call from a signal handler
 Unsafe use of Reflection
-Use of Obsolete Methods
-Use of hard-coded password
-Using a broken or risky cryptographic algorithm
-Using freed memory
-Vulnerability template
+##### Use of Obsolete Methods
+##### Use of hard-coded password
+##### Using a broken or risky cryptographic algorithm
+##### Using freed memory
+##### Vulnerability template
 ##### XML External Entity (XXE) Processing
 
 ### How to Prevent Software Vulnerabilities
