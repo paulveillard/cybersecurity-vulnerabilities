@@ -34,8 +34,8 @@ A collection of awesome framework, libraries, learning tutorials, videos, webcas
 ##### Covert storage channel
 ##### Deserialization of untrusted data
 ##### Directory Restriction Error
-Doubly freeing memory
-Empty String Password
+##### Doubly freeing memory
+##### Empty String Password
 Expression Language Injection
 Full Trust CLR Verification issue Exploiting Passing Reference Types by Reference
 Heartbleed Bug
