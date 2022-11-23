@@ -56,12 +56,12 @@ Missing Error Handling
 Missing XML Validation
 Multiple admin levels
 Null Dereference
-OWASP .NET Vulnerability Research
-Overly Permissive Regular Expression
-PHP File Inclusion
-PHP Object Injection by Egidio Romano
-PRNG Seed Error
-Password Management Hardcoded Password
+##### OWASP .NET Vulnerability Research
+##### Overly Permissive Regular Expression
+##### PHP File Inclusion
+##### PHP Object Injection by Egidio Romano
+##### PRNG Seed Error
+##### Password Management Hardcoded Password
 ##### Password Plaintext Storage
 ##### Poor Logging Practice
 ##### Portability Flaw
