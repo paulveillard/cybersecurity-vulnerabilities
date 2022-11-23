@@ -36,13 +36,13 @@ An ongoing & curated collection of awesome software best practices and technique
 ##### Directory Restriction Error
 ##### Doubly freeing memory
 ##### Empty String Password
-Expression Language Injection
-Full Trust CLR Verification issue Exploiting Passing Reference Types by Reference
-Heartbleed Bug
-Improper Data Validation
-Improper pointer subtraction
-Information exposure through query strings in url by Robert Gilbert (amroot)
-Injection problem
+##### Expression Language Injection
+##### Full Trust CLR Verification issue Exploiting Passing Reference Types by Reference
+##### Heartbleed Bug
+##### Improper Data Validation
+##### Improper pointer subtraction
+##### Information exposure through query strings in url by Robert Gilbert (amroot)
+##### Injection problem
 Insecure Compiler Optimization
 Insecure Randomness
 Insecure Temporary File
