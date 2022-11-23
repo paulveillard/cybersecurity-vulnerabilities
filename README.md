@@ -69,8 +69,8 @@ Privacy Violation
 Process Control
 Return Inside Finally Block
 Session Variable Overloading
-String Termination Error
-Unchecked Error Condition
+##### String Termination Error
+##### Unchecked Error Condition
 Unchecked Return Value Missing Check against Null
 Undefined Behavior
 Unreleased Resource
@@ -84,7 +84,7 @@ Use of hard-coded password
 Using a broken or risky cryptographic algorithm
 Using freed memory
 Vulnerability template
-XML External Entity (XXE) Processing
+##### XML External Entity (XXE) Processing
 
 ### How to Prevent Software Vulnerabilities
 
