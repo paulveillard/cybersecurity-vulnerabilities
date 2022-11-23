@@ -62,8 +62,8 @@ PHP File Inclusion
 PHP Object Injection by Egidio Romano
 PRNG Seed Error
 Password Management Hardcoded Password
-Password Plaintext Storage
-Poor Logging Practice
+##### Password Plaintext Storage
+##### Poor Logging Practice
 ##### Portability Flaw
 ##### Privacy Violation
 ##### Process Control
