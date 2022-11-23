@@ -64,21 +64,21 @@ PRNG Seed Error
 Password Management Hardcoded Password
 Password Plaintext Storage
 Poor Logging Practice
-Portability Flaw
-Privacy Violation
-Process Control
-Return Inside Finally Block
-Session Variable Overloading
+##### Portability Flaw
+##### Privacy Violation
+##### Process Control
+##### Return Inside Finally Block
+##### Session Variable Overloading
 ##### String Termination Error
 ##### Unchecked Error Condition
-Unchecked Return Value Missing Check against Null
-Undefined Behavior
-Unreleased Resource
-Unrestricted File Upload
-Unsafe JNI
-Unsafe Mobile Code
-Unsafe function call from a signal handler
-Unsafe use of Reflection
+##### Unchecked Return Value Missing Check against Null
+##### Undefined Behavior
+##### Unreleased Resource
+##### Unrestricted File Upload
+##### Unsafe JNI
+##### Unsafe Mobile Code
+##### Unsafe function call from a signal handler
+##### Unsafe use of Reflection
 ##### Use of Obsolete Methods
 ##### Use of hard-coded password
 ##### Using a broken or risky cryptographic algorithm
