@@ -20,6 +20,8 @@ An ongoing & curated collection of awesome software best practices and technique
 - A vulnerability is a hole or a weakness in the application, which can be a design flaw or an implementation bug, that allows an attacker to cause harm to the stakeholders of an application. 
 > Stakeholders include the application owner, application users, and other entities that rely on the application.
 
+![threats](https://github.com/paulveillard/cybersecurity-threats/blob/main/Img/Vulnerability-Assessment-Idenitfying-Vulnerabilities.jpg)
+
 ### Examples of Vulnerabilities
 
 ### List of Vulnerabilities
