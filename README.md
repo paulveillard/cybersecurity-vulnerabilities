@@ -43,19 +43,19 @@ An ongoing & curated collection of awesome software best practices and technique
 ##### Improper pointer subtraction
 ##### Information exposure through query strings in url by Robert Gilbert (amroot)
 ##### Injection problem
-Insecure Compiler Optimization
-Insecure Randomness
-Insecure Temporary File
-Insecure Third Party Domain Access
-Insecure Transport
-Insufficient Entropy
-Insufficient Session-ID Length
-Least Privilege Violation
-Memory leak
-Missing Error Handling
-Missing XML Validation
-Multiple admin levels
-Null Dereference
+##### Insecure Compiler Optimization
+##### Insecure Randomness
+##### Insecure Temporary File
+##### Insecure Third Party Domain Access
+##### Insecure Transport
+##### Insufficient Entropy
+##### Insufficient Session-ID Length
+##### Least Privilege Violation
+##### Memory leak
+##### Missing Error Handling
+##### Missing XML Validation
+##### Multiple admin levels
+##### Null Dereference
 ##### OWASP .NET Vulnerability Research
 ##### Overly Permissive Regular Expression
 ##### PHP File Inclusion
