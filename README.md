@@ -106,5 +106,18 @@ The common methods of identifying vulnerabilities in a software project are:
 ![vulnerabilities](https://github.com/paulveillard/cybersecurity-vulnerabilities/blob/main/Img/Survey_Vulnerabilities.png)
 
 ### How to Prevent Software Vulnerabilities
+> These are some common ways to prevent software vulnerabiltiies (not a mitigation guideline)
+
+#### 1. Test Your Software
+It’s a good practice to test your software often as this will help you find and get rid of vulnerabilities quickly. You can test your software using code analysis tools, white box testing, black box testing, and other techniques.
+
+#### 2. Update the Software Regularly
+It is important to regularly update software as outdated software is prone to vulnerabilities. By making sure your software uses up to date components and dependencies, you can prevent security issues and software vulnerabilities.
+
+#### 3. Set Up Software Design Requirements
+Define a set of principles that need to be followed while developing each software release. These principles will show the developers how to write, inspect, and demonstrate their code to ensure security best practices are followed. Following the latest information from organizations such as CWE, OWASP, and CERT will also help you detect and prevent vulnerabilities.
+
+#### 4. Use a Code Signing Certificate
+Digitally signing your code using a code signing certificate will make your code tamper-proof, making it impossible for third parties to tamper with your code. A code signing certificate will make sure your files remain secure and it will also prevent hackers from adding security vulnerabilities to your code.
 
 ### Impact of Software Security Vulnerabilities
