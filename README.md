@@ -24,6 +24,11 @@ An ongoing & curated collection of awesome software best practices and technique
 
 ### Examples of Vulnerabilities
 
+- Lack of input validation on user input
+- Lack of sufficient logging mechanism
+- Fail-open error handling
+- Not closing the database connection properly
+
 ### List of Vulnerabilities
 
 ##### Allowing Domains or Accounts to Expire
