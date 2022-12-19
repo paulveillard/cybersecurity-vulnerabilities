@@ -2,6 +2,6 @@
 
 ## Attacks
 
-## Exlpoits
+## ExpLoits
 
 ## Vulnerabilities
