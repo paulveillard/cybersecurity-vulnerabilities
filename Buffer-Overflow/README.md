@@ -136,15 +136,16 @@ The IP Address should be the IP Address of  your Attacking Machine, where we wil
 
 <hr>
 
-## Contribution
+## Further Contribution
 Fork this repo, do the required changes and send me a PR. I'll merge your request to the main repository. Here is what you can do:
+- Please see contributing.md
 - Add more Fuzzing Scripts, in different programming languages.
 - Add more Exploitation Scripts, in different programming languages.
 - Improvise the Documentation (because I'm not very good in it).
 
 Show some   <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/twitter/31/heavy-black-heart_2764.png" height =20 > by  starring the Repository. 
 
-Create by : [IamLucif3r](https://anmol-singh-yadav.github.io/)
+Credit : [IamLucif3r](https://anmol-singh-yadav.github.io/)
 
 **[`^        back to top        ^`](#)**
 
