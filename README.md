@@ -33,7 +33,7 @@ An ongoing & curated collection of awesome software best practices and technique
 
 ##### Allowing Domains or Accounts to Expire
 
-##### Buffer Overflow
+##### `Buffer Overflow`
 - Buffer overflow occurs when an attempt is made to store data that is too big for the memory space allocated. Attackers can use this software coding mistake, where the storage capacity of a program is overwritten, to take control of or to access your system. This vulnerability tends to be more common in software written in C and C++. Many programming languages have automatic protection against buffer overflow attacks.
 
 ##### Business logic vulnerability
