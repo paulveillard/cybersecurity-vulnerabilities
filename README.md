@@ -8,8 +8,13 @@ An ongoing & curated collection of awesome software best practices and technique
 ## Table of Contents
 - [Introduction](#)
   - [What is a Vulnerability](#)
-  - [Examples of Vulnerabilities](#)
-  - [List of Vulnerabilities](#)
+    - What is a Software Vulnerability?
+    - How does a Software Vulnerability work?
+    - What can an Attacker do with a Software Vulnerability?
+    - What can cause a Software Vulnerability?
+    - How can we deal with a Software Vulnerability?
+  - [Examples of Software Vulnerabilities](#)
+  - [List of Software Vulnerabilities](#)
   - [How to Prevent Software Vulnerabilities](#)
   - [Impact of Software Security Vulnerabilities](#)
 
@@ -22,14 +27,28 @@ An ongoing & curated collection of awesome software best practices and technique
 
 ![threats](https://github.com/paulveillard/cybersecurity-threats/blob/main/Img/Vulnerability-Assessment-Idenitfying-Vulnerabilities.jpg)
 
-### Examples of Vulnerabilities
+### What is a Software Vulnerability?
+A software vulnerability is a defect in software that could allow an attacker to gain control of a system. 
+> These defects can be because of the way the software is designed, or because of a flaw in the way that it’s coded.
+
+### How does a Software Vulnerability work?
+
+### What can an Attacker do with a Software Vulnerability?
+An attacker first finds out if a system has a software vulnerability by scanning it. he scan can tell the attacker what types of software are on the system, are they up to date, and whether any of the software packages are vulnerable.
+> When the attacker finds that out, he or she will have a better idea of what types of attacks to launch against the system. 
+>> A successful attack would result in the attacker being able to run malicious commands on the target system.
+
+### What can cause a Software Vulnerability?
+### How can we deal with a Software Vulnerability?
+
+### Examples of Software Vulnerabilities
 
 - Lack of input validation on user input
 - Lack of sufficient logging mechanism
 - Fail-open error handling
 - Not closing the database connection properly
 
-### List of Vulnerabilities
+### List of Software Vulnerabilities
 
 ##### Allowing Domains or Accounts to Expire
 
