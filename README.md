@@ -29,19 +29,25 @@ An ongoing & curated collection of awesome software best practices and technique
 
 ### What is a Software Vulnerability?
 
-![Software-vulnerability](https://github.com/paulveillard/cybersecurity-vulnerabilities/blob/main/Img/Zero-Day-Timeline.png)
-
 A software vulnerability is a defect in software that could allow an attacker to gain control of a system. 
 > These defects can be because of the way the software is designed, or because of a flaw in the way that it’s coded.
 
+![Software-vulnerability](https://github.com/paulveillard/cybersecurity-vulnerabilities/blob/main/Img/Zero-Day-Timeline.png)
+
 ### How does a Software Vulnerability work?
 
-### What can an Attacker do with a Software Vulnerability?
 An attacker first finds out if a system has a software vulnerability by scanning it. he scan can tell the attacker what types of software are on the system, are they up to date, and whether any of the software packages are vulnerable.
 > When the attacker finds that out, he or she will have a better idea of what types of attacks to launch against the system. 
 >> A successful attack would result in the attacker being able to run malicious commands on the target system.
 
+### What can an Attacker do with a Software Vulnerability?
+
+An attacker can exploit a software vulnerability to steal or manipulate sensitive data, join a system to a botnet, install a backdoor, or plant other types of malware.  Also, after penetrating into one network host, the attacker could use that host to break into other hosts on the same network.
+
+![Software-vulnerability](https://github.com/paulveillard/cybersecurity-vulnerabilities/blob/main/Img/Zero-Day-Timeline.png)
+
 ### What can cause a Software Vulnerability?
+
 ### How can we deal with a Software Vulnerability?
 
 ### Examples of Software Vulnerabilities
@@ -56,7 +62,9 @@ An attacker first finds out if a system has a software vulnerability by scanning
 ##### Allowing Domains or Accounts to Expire
 
 ##### `Buffer Overflow`
-- Buffer overflow occurs when an attempt is made to store data that is too big for the memory space allocated. Attackers can use this software coding mistake, where the storage capacity of a program is overwritten, to take control of or to access your system. This vulnerability tends to be more common in software written in C and C++. Many programming languages have automatic protection against buffer overflow attacks.
+- These allow someone to put more data into an input field than what the field is supposed to allow.  An attacker can take advantage of this by placing malicious commands into the overflow portion of the data field, which would then execute.
+
+> Buffer overflow occurs when an attempt is made to store data that is too big for the memory space allocated. Attackers can use this software coding mistake, where the storage capacity of a program is overwritten, to take control of or to access your system. This vulnerability tends to be more common in software written in C and C++. Many programming languages have automatic protection against buffer overflow attacks.
 
 ##### Business logic vulnerability
 ##### CRLF Injection
