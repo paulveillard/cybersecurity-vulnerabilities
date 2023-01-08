@@ -69,9 +69,11 @@ An attacker can exploit a software vulnerability to steal or manipulate sensitiv
 #### `SQL Injection`
 -  This could allow an attacker to inject malicious commands into the database of a web application.  The attacker can do this by entering specially-crafted Structured Query Language commands into either a data field of a web application form, or into the URL of the web application.  If the attack is successful, the unauthorized and unauthenticated attacker would be able to retrieve or manipulate data from the database.
 
-#### ``
+#### `Third-Party libraries`
+- Many programmers use third-party code libraries, rather than try to write all software from scratch.  This can be a real time-saver, but it can also be dangerous if the library has any vulnerabilities.  Before using any of these libraries, developers need to verify that they don’t have vulnerabilities.
 
-#### `Buffer Overflow`
+#### `Application Programming Interfaces`
+- An API, which allows software programs to communicate with each other, could also introduce a software vulnerability.  Many APIs are not set up with strict security policies, which could allow an unauthenticated attacker to gain entry into a system.
 
 ##### Business logic vulnerability
 ##### CRLF Injection
