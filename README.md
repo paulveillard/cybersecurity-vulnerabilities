@@ -28,6 +28,9 @@ An ongoing & curated collection of awesome software best practices and technique
 ![threats](https://github.com/paulveillard/cybersecurity-threats/blob/main/Img/Vulnerability-Assessment-Idenitfying-Vulnerabilities.jpg)
 
 ### What is a Software Vulnerability?
+
+![Software-vulnerability](https://github.com/paulveillard/cybersecurity-vulnerabilities/blob/main/Img/Zero-Day-Timeline.png)
+
 A software vulnerability is a defect in software that could allow an attacker to gain control of a system. 
 > These defects can be because of the way the software is designed, or because of a flaw in the way that it’s coded.
 
