@@ -32,7 +32,7 @@ An ongoing & curated collection of awesome software best practices and technique
 A software vulnerability is a defect in software that could allow an attacker to gain control of a system. 
 > These defects can be because of the way the software is designed, or because of a flaw in the way that it’s coded.
 
-![Software-vulnerability](https://github.com/paulveillard/cybersecurity-vulnerabilities/blob/main/Img/Zero-Day-Timeline.png)
+
 
 ### How does a Software Vulnerability work?
 
@@ -65,6 +65,13 @@ An attacker can exploit a software vulnerability to steal or manipulate sensitiv
 - These allow someone to put more data into an input field than what the field is supposed to allow.  An attacker can take advantage of this by placing malicious commands into the overflow portion of the data field, which would then execute.
 
 > Buffer overflow occurs when an attempt is made to store data that is too big for the memory space allocated. Attackers can use this software coding mistake, where the storage capacity of a program is overwritten, to take control of or to access your system. This vulnerability tends to be more common in software written in C and C++. Many programming languages have automatic protection against buffer overflow attacks.
+
+#### `SQL Injection`
+-  This could allow an attacker to inject malicious commands into the database of a web application.  The attacker can do this by entering specially-crafted Structured Query Language commands into either a data field of a web application form, or into the URL of the web application.  If the attack is successful, the unauthorized and unauthenticated attacker would be able to retrieve or manipulate data from the database.
+
+#### ``
+
+#### `Buffer Overflow`
 
 ##### Business logic vulnerability
 ##### CRLF Injection
