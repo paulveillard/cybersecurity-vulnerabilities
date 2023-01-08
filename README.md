@@ -49,7 +49,7 @@ An attacker can exploit a software vulnerability to steal or manipulate sensitiv
 ### What can cause a Software Vulnerability?
 
 ### How can we deal with a Software Vulnerability?
-**The best way to deal with a software vulnerability is to prevent it from happening in the first place.  Software developers need to learn secure coding practices, and automatic security testing must be built into the entire software development process.
+> The best way to deal with a software vulnerability is to prevent it from happening in the first place.  Software developers need to learn secure coding practices, and automatic security testing must be built into the entire software development process
 
 Makers are responsible to continually monitor for publications of new vulnerabilities that affect software they sold. Once such a vulnerability is discovered they must patch it as quickly as possible and send an update to the users.
 
